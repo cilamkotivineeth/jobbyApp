@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jobbyApp/static/css/main.b2fc2773.chunk.css",
+    "main.js": "/jobbyApp/static/js/main.e13326b6.chunk.js",
+    "main.js.map": "/jobbyApp/static/js/main.e13326b6.chunk.js.map",
+    "runtime-main.js": "/jobbyApp/static/js/runtime-main.828c047f.js",
+    "runtime-main.js.map": "/jobbyApp/static/js/runtime-main.828c047f.js.map",
+    "static/css/2.91ac4a78.chunk.css": "/jobbyApp/static/css/2.91ac4a78.chunk.css",
+    "static/js/2.2308753c.chunk.js": "/jobbyApp/static/js/2.2308753c.chunk.js",
+    "static/js/2.2308753c.chunk.js.map": "/jobbyApp/static/js/2.2308753c.chunk.js.map",
+    "index.html": "/jobbyApp/index.html",
+    "static/css/2.91ac4a78.chunk.css.map": "/jobbyApp/static/css/2.91ac4a78.chunk.css.map",
+    "static/css/main.b2fc2773.chunk.css.map": "/jobbyApp/static/css/main.b2fc2773.chunk.css.map",
+    "static/js/2.2308753c.chunk.js.LICENSE.txt": "/jobbyApp/static/js/2.2308753c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.828c047f.js",
+    "static/css/2.91ac4a78.chunk.css",
+    "static/js/2.2308753c.chunk.js",
+    "static/css/main.b2fc2773.chunk.css",
+    "static/js/main.e13326b6.chunk.js"
+  ]
+}
